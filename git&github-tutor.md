@@ -8,6 +8,10 @@
 - github
 - ssh
 
+## git level
+- working
+- stage
+- commit
 _________________________
 
 # basic git commands
@@ -33,3 +37,19 @@ _________________________
 - checkout
 - diff
 - merge
+_________________________
+
+# git conflict while merge
+- current & incoming section
+__________________________
+
+# undoing
+- unstaging
+
+## undoing commands
+- reset
+- HEAD
+- log
+___________________
+# forking
+- copy repo from owner to ourself
