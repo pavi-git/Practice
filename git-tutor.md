@@ -26,8 +26,10 @@ _________________________
 # git braching
 - main branch
 - merge branching
+- pull request (PR)
 
 ## commands
 - branch
 - checkout
 - diff
+- merge
