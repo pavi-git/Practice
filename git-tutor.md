@@ -30,3 +30,4 @@ _________________________
 ## commands
 - branch
 - checkout
+- diff
